@@ -1,0 +1,92 @@
+body {
+  font-size: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+.ensemble {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.bloc1 {
+  background-color: rgb(207, 233, 207);
+  width: 400px;
+  height: 1200px;
+  margin-right: 80px;
+  margin-top: 30px;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin: 40px;
+  background-color: #fff;
+}
+.icone i {
+  display: flex;
+  justify-content: start;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.infoicon {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  font-size: 18px;
+}
+span {
+  width: 60px;
+  height: 8px;
+  background-color: #fff;
+}
+#centre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  background-color: #fff;
+  width: 170px;
+  height: 30px;
+  text-align: center;
+  font-size: 25px;
+}
+em {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.bloc2 {
+}
+.infospan {
+  background-color: aqua;
+  width: 140px;
+  height: 3px;
+}
+.bloc2-- {
+  margin-top: 30px;
+  gap: 20px;
+}
+.division {
+  margin-top: 20px;
+}
+.infospan1 {
+  width: 60px;
+  height: 4px;
+  background-color: aqua;
+}
+#educat {
+  flex-direction: column;
+}
+.class1 {
+  display: flex;
+  justify-content: center;
+}
+.ri-map-pin-2-fill {
+  font-size: 20px;
+  margin-bottom: 18px;
+}
+.ri-mail-fill {
+  margin-bottom: 15px;
+}
